@@ -10,7 +10,7 @@
 }
 
 \paper {
-  #(set-paper-size "a6" 'landscape)
+  #(set-paper-size "a5landscape")
 }
 
 
